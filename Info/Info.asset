@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb67a9fc9dfc0dc4aa18d25af018c6f3, type: 3}
+  m_Name: Info
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: data
+      Entry: 7
+      Data: 0|WuLin.ModEditor.GameModInfo+GameModInfoData, Assembly-CSharp-Editor
+    - Name: Name
+      Entry: 1
+      Data: "\uB300\uD611\uC785\uC9C0\uC804_\uD55C\uAE00\uBAA8\uB4DC"
+    - Name: Author
+      Entry: 1
+      Data: Sirus
+    - Name: Publicity
+      Entry: 3
+      Data: 0
+    - Name: Description
+      Entry: 1
+      Data: "\uB300\uD611\uC785\uC9C0\uC804 \uD55C\uAE00\uBAA8\uB4DC\uC785\uB2C8\uB2E4.
+        (v0.3.0-alpha, 24.03.15.)\r\n\r\n\uD55C\uAE00 \uD3F0\uD2B8\uB97C \uC9C0\uC6D0\uD558\uC9C0
+        \uC54A\uAE30 \uB54C\uBB38\uC5D0, XUnity.Autotranslator \uB97C \uAC19\uC774
+        \uC0AC\uC6A9\uD574\uC11C \uD3F0\uD2B8\uB97C \uC801\uC6A9\uC2DC\uCF1C\uC57C
+        \uD569\uB2C8\uB2E4.\r\n\r\n\uD55C\uAE00\uC744 \uC9C0\uC6D0\uD558\uAE30 \uC704\uD55C
+        \uC124\uC815 \uBC29\uBC95\uC740 \uC544\uB798\uC640 \uAC19\uC2B5\uB2C8\uB2E4.\r\n\r\n1.
+        BepInEx \uC124\uCE58 (\uCD5C\uC2E0 \uAD8C\uC7A5)\r\n- \uAC8C\uC784 \uC124\uCE58
+        \uACBD\uB85C\uC5D0 \uC555\uCD95 \uD574\uC81C (steamapps\\common\\WulinSH\\)\r\n\r\n2.
+        XUnity.Autotranslator \uC124\uCE58\r\n- \uAC8C\uC784 \uC124\uCE58 \uACBD\uB85C\uC5D0
+        \uC555\uCD95 \uD574\uC81C (steamapps\\common\\WulinSH\\)\r\n\r\n3. \uD3F0\uD2B8
+        \uB2E4\uC6B4\uB85C\uB4DC\r\n- \uAC8C\uC784 \uC124\uCE58 \uACBD\uB85C\uC5D0
+        \uC555\uCD95 \uD574\uC81C (steamapps\\common\\WulinSH\\arialuni_sdf_u2019
+        \uD30C\uC77C\uC774 \uC704\uCE58\uD574\uC57C \uD568)\r\n\r\n4. \uD55C\uAE00\uC785\uB825\uAE30
+        \uB2E4\uC6B4\uB85C\uB4DC (\uB124\uC774\uBC84\uCE74\uD398 \uC18C\uC694\uAC1D\uC794)\r\n-
+        BepInEx Plungin \uACBD\uB85C\uC5D0 \uC555\uCD95 \uD574\uC81C (steamapps\\common\\WulinSH\\BepInEx\\plugins)\r\n\r\n5.
+        \uAC8C\uC784 1\uD68C \uC2E4\uD589 \uD6C4 \uC885\uB8CC\r\n\r\n6. steamapps\\common\\WulinSH\\BepInEx\\config\\
+        \uACBD\uB85C\uC5D0 AutoTranslatorConfig.ini \uC0DD\uC131 \uD655\uC778\r\n\r\n7.
+        AutoTranslatorConfig.ini \uD30C\uC77C \uC544\uB798 \uBD80\uBD84\uB9CC \uC218\uC815
+        (\uB2E4\uB978 \uBD80\uBD84\uC740 \uAC74\uB4E4 \uD544\uC694 \uC5C6\uC74C,
+        \uD3F0\uD2B8\uB294 \uC120\uD0DD)\r\n[Service]\r\nEndpoint=GoogleTranslateV2\r\n\r\n[General]\r\nLanguage=ko\r\nFromLanguage=zh-CN\r\n\r\n[TextFrameworks]\r\nEnableTextMeshPro=True\r\nEnableTextMesh=True\r\n\r\n[Behaviour]\r\nOverrideFont=Malgun
+        Gothic\r\nOverrideFontSize=\r\nOverrideFontTextMeshPro=arialuni_sdf_u2019\r\nFallbackFontTextMeshPro=arialuni_sdf_u2019\r\n\r\n8.
+        \uBAA8\uB4DC \uC801\uC6A9 \uD6C4 \uAC8C\uC784 \uC2E4\uD589 (\uC5B8\uC5B4
+        \uC601\uBB38 \uC124\uC815)\r\n\r\n===================================\r\n\r\nThis
+        mod is Korean language of Hero's Adventure (v0.1-beta, 23.10.03.)\r\n\r\nMost
+        of them were translated using a translator, so it may interfere with the
+        smooth gameplay!\r\n\r\nSince Korean fonts are not supported, you must use
+        XUnity.Autotranslator to apply the font.\r\n\r\nThe setup method to support
+        Korean is as follows.\r\n\r\n1. Install BepInEx (latest recommended)\r\n-
+        Unzip the game to the installation path (steamapps\\common\\WulinSH\\)\r\n\r\n2.
+        Install XUnity.Autotranslator\r\n- Unzip the game to the installation path
+        (steamapps\\common\\WulinSH\\)\r\n\r\n3. Font download\r\n- Unzip to the
+        game installation path (steamapps\\common\\WulinSH\\arialuni_sdf_u2019 file
+        must be located)\r\n\r\n4. Download Korean input method (Naver cafe : \uC18C\uC694\uAC1D\uC794)\r\n-
+        BepInEx Plungin \uACBD\uB85C\uC5D0 \uC555\uCD95 \uD574\uC81C (steamapps\\common\\WulinSH\\BepInEx\\plugins)\r\n\r\n5.
+        Play the game once and then quit\r\n\r\n6. Check creation of AutoTranslatorConfig.ini
+        in steamapps\\common\\WulinSH\\BepInEx\\config\\ path.\r\n\r\n7. Modify only
+        the part below the AutoTranslatorConfig.ini file (no need to touch other
+        parts)\r\n[Service]\r\nEndpoint=GoogleTranslateV2\r\n\r\n[General]\r\nLanguage=ko\r\nFromLanguage=zh-CN\r\n\r\n[TextFrameworks]\r\nEnableTextMeshPro=True\r\nEnableTextMesh=True\r\n\r\n[Behavior]\r\nOverrideFont=Malgun
+        Gothic\r\nOverrideFontSize=\r\nOverrideFontTextMeshPro=arialuni_sdf_u2019\r\nFallbackFontTextMeshPro=arialuni_sdf_u2019\r\n\r\n8.
+        Run the game after applying the mod (language set to English)"
+    - Name: Tags
+      Entry: 7
+      Data: 1|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 1
+    - Name: 
+      Entry: 1
+      Data: "ModTag_\u975E\u4E2D\u6587"
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
